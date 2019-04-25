@@ -177,9 +177,9 @@
 			<li>
 			    <img src="images/busesgallery/6.png" class="busImage" style="height: 126px;" />
 			    <div>
-				<p class="busTitle">MERCEDES CEZAR 404</p>
+				<p class="busTitle">SETRA 415 GTHD</p>
 				<p class="busDesc">
-				    - Liczba miejsc 49+ 1+1<br />
+				    - Liczba miejsc 49+ 2+1<br />
 				    - Klimatyzacja<br />
 				    - WC<br />
 				    - DVD<br />
@@ -198,12 +198,13 @@
 			<li>
 			    <img src="images/busesgallery/7.png" class="busImage" style="height: 126px;" />
 			    <div>
-				<p class="busTitle">VW LT</p>
+				<p class="busTitle">MERCEDES SPRINTER 519</p>
 				<p class="busDesc">
-				    - Liczba miejsc 18+ 1<br />
+				    - Liczba miejsc 20+1<br />
 				    - Klimatyzacja<br />
-				    - Mikrofon<br />
-    
+				    - DVD<br />
+				    - Mikrofon
+				    
 				</p>
 				
 				<p>
