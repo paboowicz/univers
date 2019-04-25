@@ -1,0 +1,261 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+body{
+    background: url(../images/bg.jpg) #c0e2ee no-repeat;
+    
+}
+
+ul{
+    list-style: none;
+}
+
+#topStripe{
+    background: url('../images/topstripe.png') #d6d3d3;
+    background-position: center center;
+    width: 100%;
+    height: 95px;
+}
+
+.whiteStripe{
+    width: 100%;
+    height: 8px;
+    background: #ffffff;
+}
+
+.centerContainer{
+    width: 1100px;
+    margin: auto;
+    
+}
+
+#carouselTop{
+    width: 100%;
+    height: 275px;
+    background: #ffffff;
+    position: relative;
+    overflow: hidden;
+}
+
+#carouselTop > ul{
+    display: block;
+    position: absolute;
+    margin-top: 3px;
+    
+}
+
+#carouselTop > ul > li{
+    display: block;
+    float: left;
+    margin-left: 5px;
+    
+}
+
+#topBuses{
+    background: url(../images/buses.png);
+    width: 492px;
+    height: 187px;
+    position: absolute;
+    z-index: 1000;
+    left: 50px;
+    top: 128px;
+}
+
+#contactStripe{
+    text-align: right;
+    margin-top: 12px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+}
+
+.clear{
+    clear: both;
+}
+
+.leftBox{
+    width: 672px;
+    min-height: 390px;
+    background: #ffffff;
+    float: left;
+    
+    
+}
+
+.leftCorners{
+    -webkit-border-radius: 0px 50px 50px 0px;
+        border-radius: 0px 50px 50px 0px;
+}
+
+.rightBox{
+    width: 410px;
+    min-height: 280px;
+    background: url(../images/map.png);
+    float: right;
+    
+    
+}
+
+.rightCorners{
+    -webkit-border-radius: 30px 0px 0px 30px;
+    border-radius: 30px 0px 0px 30px;
+}
+
+.bottomstripe{
+    background: #ffffff url(../images/bottomstripe.png) no-repeat;
+    height: 26px;
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color: #ffffff;
+    font-size: 12px;
+    line-height: 26px;
+    
+    position: relative;
+}
+
+.bottomstripe p{
+    width: 250px;
+    height: 100%;
+    float: left;
+    margin-left: 5px;
+    line-height: 26px;
+}
+
+.busBox{
+    width: 422px;
+    height: 161px;
+    cursor: pointer;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+
+.menuContainer{
+    width: 196px;
+    height: 100%;
+    float: left;
+}
+
+#menu{
+    margin-top: 45px;
+}
+
+#menu li{
+    float: right;
+    background: #b50207;
+    height: 35px;
+    width: 183px;
+    text-align: right;
+    margin: 2px 3px 2px 0px;
+    line-height: 35px;
+    position: relative;
+}
+
+#menu li a{
+    margin-right: 6px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+#menu li span.pin{
+    display: block;
+    position: absolute;
+    left: -22px;
+    width: 44px;
+    height: 29px;
+    top: -5px;
+    background: url(../images/pin.png);
+}
+
+.adressBox{
+    font-size: 11px;
+    margin-top: 65px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.contentBox{
+    float: right;
+    width: 450px;
+    
+}
+
+.contentBox h1{
+    margin-top: 30px;
+    font-weight: 100;
+    font-size: 26px;
+    margin-left: 10px;
+}
+
+.contentBox p{
+    font-size: 13px;
+    margin: 10px;
+    text-align: justify;
+}
+
+.fullWidth{
+    width: 80%;
+}
+
+.blue{
+    color: #0074a7;
+}
+
+#busGallery{
+    
+}
+
+#busGallery li{
+    display: block;
+    float: left;
+    background: url(../images/galItemBg.png) no-repeat;
+    background-size: 240px 126px;
+    background-position: right center;
+    width: 416px;
+    height: 126px;
+    margin: 20px 1px 1px 1px;
+    position: relative;
+}
+
+#busGallery li div{
+    width: 200px;
+    height: 100%;
+    float: right;
+}
+
+.busImage{
+    position: absolute;
+}
+
+.busDesc{
+    position: absolute;
+    width: 140px;
+    top: 18px;
+    font-size: 10px !important;
+}
+
+.busTitle{
+   
+   font-weight: bold;
+}
+
+.fancy{
+    position: absolute;
+    bottom: 2px;
+    right: 5px;
+    font-size: 11px;
+}
+
+.topFrame{
+    width: 360px;
+    height: 267px;
+    background: #0074a7;
+}

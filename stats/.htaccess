@@ -1,0 +1,7 @@
+AuthName "hosting29.vps77.iat.pl statistics"
+AuthType Basic
+AuthUserFile /home/hosting29/.stats-htpasswd
+require valid-user
+<Files .stats-htpasswd>
+deny from all
+</Files>
