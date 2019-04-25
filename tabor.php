@@ -185,7 +185,8 @@
 				    - DVD<br />
 				    - Lodówka<br />
 				    - Mikrofon<br />
-				    - CaffeeBar
+				    - CaffeeBar<br />
+				    - euro 5
     
 				</p>
 				
@@ -203,8 +204,8 @@
 				    - Liczba miejsc 20+1<br />
 				    - Klimatyzacja<br />
 				    - DVD<br />
-				    - Mikrofon
-				    
+				    - Mikrofon<br />
+				    - euro 5
 				</p>
 				
 				<p>
