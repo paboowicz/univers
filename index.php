@@ -126,7 +126,11 @@
 	 	    </div>	
 		</div>
 	    </div>
-	    
+	    <div class="">		
+			<p><img src="images/banner-pfr.png" /></p>
+			
+		</div>
+	    </div>
 	</div>
 	
     </body>
