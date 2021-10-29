@@ -73,8 +73,8 @@
 		    <div class="adressBox">
 			<img src="images/mailbox.png" style="float: right;" />
 			<strong>Beata Mazepa</strong><br />
-			Dąbków 49<br />
-			37 - 600 Lubaczów<br />
+			ul. gen. Stanisława Dąbka 65 <br />
+			37 - 600 Dąbków<br />
 			<br />
 			tel./fax (0-16) 632 14 44<br />
 			tel.0 509 95 57 00<br />
